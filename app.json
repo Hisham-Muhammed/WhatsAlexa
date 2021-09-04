@@ -113,11 +113,6 @@
             "required": false,
             "value": "default"
         },
-        "ADD_MESSAGE": {
-            "description": "Customizable Add Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
             "required": false,
@@ -130,11 +125,6 @@
         },
         "DEMOTE_MESSAGE": {
             "description": "Customizable Demote Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"
-        },
-        "AFK_MESSAGE": {
-            "description": "Customizable AFK Message! Use => default, to change back.",
             "required": false,
             "value": "default"
         },
