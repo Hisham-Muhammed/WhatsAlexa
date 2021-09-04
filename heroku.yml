@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /alexa/Dockerfile
+run:
+   worker: npm start
