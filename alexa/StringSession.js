@@ -1,5 +1,5 @@
 const fs = require('fs');
-var s = split
+let s = '==='
 
 class StringSession {
     constructor() {
@@ -14,7 +14,7 @@ class StringSession {
             }
         }
         
-        var split = string.s('===');
+        var split = string.split(s);
         if (split.length >= 2) {
             return JSON.parse(Buffer.from(split[split.length - 1], 'base64').toString('utf-8'));
         }
